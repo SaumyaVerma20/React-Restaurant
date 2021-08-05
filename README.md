@@ -1,6 +1,6 @@
 
 # React-Restaurant
-# https://react-restaurant09.netlify.app/home
+# https://react-restaurant09.netlify.app/
 
 
 # Getting Started with Create React App
